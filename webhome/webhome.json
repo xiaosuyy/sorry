@@ -1,0 +1,22 @@
+{
+    "sites":  [
+                  {
+                      "key":  "jisuzhuiju",
+                      "name":  "极速追剧",
+                      "type":  3,
+                      "api":  "https://cdn.jsdelivr.net/gh/xiaosuyy/sorry@master/webhome/spiders/jisuzhuiju.js",
+                      "searchable":  1,
+                      "quickSearch":  1,
+                      "filterable":  0
+                  },
+                  {
+                      "key":  "pomo",
+                      "name":  "Pomo",
+                      "type":  3,
+                      "api":  "https://cdn.jsdelivr.net/gh/xiaosuyy/sorry@master/webhome/spiders/pomo.js",
+                      "searchable":  1,
+                      "quickSearch":  0,
+                      "filterable":  0
+                  }
+              ]
+}
